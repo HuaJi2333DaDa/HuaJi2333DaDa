@@ -1,4 +1,6 @@
 ### 今天又是一个适合摸鱼的好日子呢🤔
+### 放假了没事干中😂
+### 自学Python中😅
 
 <!--
 **HuaJi2333DaDa/HuaJi2333DaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
