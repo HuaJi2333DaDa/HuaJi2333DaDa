@@ -2,6 +2,8 @@
 ### 高三了😂
 ### 咕咕咕真爽 🕊
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaJi2333DaDa)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **HuaJi2333DaDa/HuaJi2333DaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
