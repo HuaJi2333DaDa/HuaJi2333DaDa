@@ -1,5 +1,4 @@
 ### 今天又是一个适合摸鱼的好日子呢🤔
-### 高三了😂
 ### 咕咕咕真爽 🕊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuaJi2333DaDa&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
